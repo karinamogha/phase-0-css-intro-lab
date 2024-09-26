@@ -1,8 +1,30 @@
 /* Tag selector to select the 'body' element */
 body {
-  /* Your code here! */
+  /* /* style.css */
+
+/* Set the background color of the body */
+  background-color: #00b3e6; /* Light blue */
 }
 
+/* Style for <div> elements */
+div {
+  width: 700px;               /* Width set to 700px */
+  margin: auto;               /* Center the <div> */
+  font-family: "Helvetica Neue", sans-serif; /* Font family */
+  background-color: white;    /* Background color white */
+  padding: 30px;              /* Padding around the <div> */
+}
+
+/* Style for the main header */
+#main-header {
+  font-size: 22px;            /* Font size set to 22px */
+}
+
+/* Style for elements with the class 'perspective-questions' */
+.perspective-questions {
+  font-style: italic;         /* Italic font style */
+}
+*/
 /* Tag selector to select all 'div' elements. We only have one 'div' in our HTML */
 div {
   /* Your code here! */
